@@ -1,0 +1,20 @@
+"*":
+  core:
+    customFileTypes:
+      "source.c": [
+        "cpar"
+      ]
+    telemetryConsent: "limited"
+    themes: [
+      "genesis-ui"
+      "genesis-syntax"
+    ]
+  editor:
+    fontSize: 18
+  "exception-reporting":
+    userId: "04b50e36-b5cf-5d65-cab6-4e29c146ca3c"
+  linter:
+    errorPanelHeight: 22
+  "linter-ruby": {}
+  welcome:
+    showOnStartup: false
